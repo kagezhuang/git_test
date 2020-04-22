@@ -1,7 +1,7 @@
 new Vue({
     el: "#app",
     data: {
-        name: "kage",
+        name: 'kage',
         email: 'kagezhuang@gmail.com'
     }
 })
